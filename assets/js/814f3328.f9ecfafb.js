@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhuskylabs=self.webpackChunkhuskylabs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Making synthetic medical images for client-side mocking","permalink":"/huskylabs-dist/making synthetic nifti images for client side mocking","unlisted":false,"date":"2025-01-29T19:38:37.000Z"}]}')}}]);

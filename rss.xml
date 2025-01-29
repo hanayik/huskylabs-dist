@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>HuskyLabs Blog</title>
+        <link>https://hanayik.github.io/huskylabs-dist/</link>
+        <description>HuskyLabs Blog</description>
+        <lastBuildDate>Wed, 29 Jan 2025 19:38:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Making synthetic medical images for client-side mocking]]></title>
+            <link>https://hanayik.github.io/huskylabs-dist/making synthetic nifti images for client side mocking</link>
+            <guid>https://hanayik.github.io/huskylabs-dist/making synthetic nifti images for client side mocking</guid>
+            <pubDate>Wed, 29 Jan 2025 19:38:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

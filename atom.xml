@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hanayik.github.io/huskylabs-dist/</id>
+    <title>HuskyLabs Blog</title>
+    <updated>2025-01-29T19:38:37.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hanayik.github.io/huskylabs-dist/"/>
+    <subtitle>HuskyLabs Blog</subtitle>
+    <icon>https://hanayik.github.io/huskylabs-dist/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Making synthetic medical images for client-side mocking]]></title>
+        <id>https://hanayik.github.io/huskylabs-dist/making synthetic nifti images for client side mocking</id>
+        <link href="https://hanayik.github.io/huskylabs-dist/making synthetic nifti images for client side mocking"/>
+        <updated>2025-01-29T19:38:37.000Z</updated>
+    </entry>
+</feed>
